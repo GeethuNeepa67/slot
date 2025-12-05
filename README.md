@@ -116,7 +116,6 @@ Execute the program using runserver command.
 </table>
 </body>
 
-
 ## OUTPUT
 
 <img width="912" height="515" alt="Screenshot 2025-12-05 131247" src="https://github.com/user-attachments/assets/68671c75-67e4-42ed-b0a9-58a41e25e88e" />
